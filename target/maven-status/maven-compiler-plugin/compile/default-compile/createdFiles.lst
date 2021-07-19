@@ -1,0 +1,5 @@
+kravczek\postgres\config\SpringConfig.class
+kravczek\postgres\dao\PersonDAO.class
+kravczek\postgres\models\Person.class
+kravczek\postgres\controllers\PeopleController.class
+kravczek\postgres\config\MySpringMvcDispatcherSerlvetIntitializer.class
